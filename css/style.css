@@ -1,0 +1,165 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#one{
+	background-image:url(../images/yes.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: fixed;
+    height: 650px;
+}
+
+  body {
+    padding-top: 15px;
+    font-size: 12px
+  }
+  .main {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+  .login-or {
+    position: relative;
+    font-size: 18px;
+    color: #aaa;
+    margin-top: 10px;
+            margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .span-or {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -2px;
+    margin-left: -25px;
+    background-color: #fff;
+    width: 50px;
+    text-align: center;
+  }
+  .hr-or {
+    background-color: #cdcdcd;
+    height: 1px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  }
+  h3 {
+    text-align: center;
+    line-height: 300%;
+  }
+  .btn-primary {
+    color: #fff;
+  
+    border-color: #2e6da4;
+}
+.header{
+  background-image: url(..images/reg.jpg);
+}
+#bucket{
+  background-image: url(../images/reg.jpg);
+  width: 100%;
+  height: 700px;
+  opacity: 0.7;
+}
+#register{
+ background-image: url(../images/reg.jpg);
+ opacity: 0.7;
+}
+
+body, html{
+     height: 100%;
+  background-repeat: no-repeat;
+  background-color: #d3d3d3;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.main{
+  margin-top: 70px;
+}
+
+h1.title { 
+  font-size: 50px;
+  font-family: 'Passion One', cursive; 
+  font-weight: 400; 
+}
+
+hr{
+  width: 10%;
+  color: #fff;
+}
+
+.form-group{
+  margin-bottom: 15px;
+}
+
+label{
+  margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.main-login{
+  background-color: #fff;
+   margin-top:0px; 
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+   
+
+}
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+ /*   background-color: #eee;*/
+    border: 1px solid #ccc;
+        border-right-width: 1px;
+        border-right-style: solid;
+        border-right-color: rgb(204, 204, 204);
+    border-radius: 4px;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
+}
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.main-center{
+  margin-top: 30px;
+  margin: 0 auto;
+  max-width: 330px;
+    padding: 40px 40px;
+
+}
+
+.login-button{
+  margin-top: 5px;
+}
+
+.login-register{
+  font-size: 11px;
+  text-align: center;
+}
+h1{
+  font-size: 16px;
+  color: black;
+}
+.table-sortable tbody tr {
+    cursor: move;
+}
+.btn-danger {
+    color: #fff;
+    background-color: blue;
+    border-color: #d43f3a;
+}
